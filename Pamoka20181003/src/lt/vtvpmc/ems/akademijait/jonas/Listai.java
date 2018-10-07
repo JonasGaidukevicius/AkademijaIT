@@ -4,8 +4,21 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 
+
 public class Listai {
-    public static void main(String[] args) {
+    public static void main(String [] args) {
+        int x1 = 5_2;
+        System.out.println(x1);
+        double amount = 0xE;
+        System.out.println(amount);
+
+        byte x = 5;
+        byte y = 10;
+        double z = x + y;
+        short rr = 10;
+        short tt = 20;
+        short ll = rr + tt;
+
         ArrayList<String> arrayList = new ArrayList<>();
         arrayList.add("Java");
         arrayList.add("C#");
