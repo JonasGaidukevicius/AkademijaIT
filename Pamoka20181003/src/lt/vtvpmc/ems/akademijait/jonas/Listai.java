@@ -17,7 +17,7 @@ public class Listai {
         double z = x + y;
         short rr = 10;
         short tt = 20;
-        short ll = rr + tt;
+        //short ll = rr + tt;
 
         ArrayList<String> arrayList = new ArrayList<>();
         arrayList.add("Java");

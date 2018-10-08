@@ -5,51 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0793c25-4407-4192-8984-6f31e68f84b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../paskaita_20181008/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pamoka20181003/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Listai.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Listai.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181002/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisStringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaiciusTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastasTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/PasikartojantysTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamasTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaiciusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07Test07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/PasikartojantysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita_20181001/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/AsciiKodas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/AtsitiktiniaiSkaiciai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/KomandineEilute01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/KomandineEilute01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/LyginisArNelyginis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/PirminiuSkaiciuSeka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/out/production/testas_20181002/lt/vtvpmc/ems/akademijait/jonas/StringIChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/AsciiKodas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/AsciiKodas04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/AtsitiktiniaiSkaiciai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/AtsitiktiniaiSkaiciai02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/KomandineEilute01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/KomandineEilute01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/LyginisArNelyginis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/LyginisArNelyginis05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/PirminiuSkaiciuSeka.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/PirminiuSkaiciuSeka06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/StringIChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testas_20181002/src/lt/vtvpmc/ems/akademijait/jonas/StringIChar03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,9 +59,19 @@
     <session id="-433291582">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -141,38 +110,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeisciuStringIAstuntaini.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringISesioliktaini.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="255">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -231,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -418,9 +378,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26198083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26895565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -539,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -571,24 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeisciuStringIAstuntaini.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -603,6 +543,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>

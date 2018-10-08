@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be6223d-d3a1-4542-b186-0bff5499941a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Listai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Listai.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181002/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisStringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaiciusTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastasTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/PasikartojantysTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamasTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaiciusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07Test07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/PasikartojantysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +16,12 @@
     <session id="-1403625752">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,12 +37,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="995" />
+          <entry key="java" value="997" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="995" />
+          <entry key="JAVA" value="997" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -110,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="90">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,8 +182,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,10 +254,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26464325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26824033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
