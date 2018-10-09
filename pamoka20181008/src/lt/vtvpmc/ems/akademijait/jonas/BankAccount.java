@@ -2,8 +2,8 @@ package lt.vtvpmc.ems.akademijait.jonas;
 
 public class BankAccount {
 
-    private String number;
-    private double balance;
+    protected String number;
+    protected double balance;
 
     //konstruktorius
     public BankAccount(String number){

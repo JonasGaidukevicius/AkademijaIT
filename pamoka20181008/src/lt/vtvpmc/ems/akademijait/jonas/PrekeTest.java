@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//2018.10.09 perdarinejau si koda
+
 class PrekeTest {
 
     @Test
