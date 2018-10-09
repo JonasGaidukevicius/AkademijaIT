@@ -6,12 +6,10 @@ public class KeiciuStringIDvejetaini10 {
     public static void main(String[] args) {
         String eilute = "Eilute";
         System.out.println(keiciuStringIDvejetainiKoda(eilute));
+
     }
 
     public static StringBuilder keiciuStringIDvejetainiKoda(String eilute) {
-
-
-
         byte[] bytes = eilute.getBytes();
         //System.out.println(bytes[0]);  testinis atsispausdinimas
         StringBuilder binary = new StringBuilder();
