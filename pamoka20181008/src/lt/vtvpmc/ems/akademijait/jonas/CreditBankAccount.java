@@ -3,7 +3,7 @@ package lt.vtvpmc.ems.akademijait.jonas;
 public class CreditBankAccount extends BankAccount{
 
     //private String number;
-    //private double balance;
+    private double balance;
     private double creditLimit;
 
 

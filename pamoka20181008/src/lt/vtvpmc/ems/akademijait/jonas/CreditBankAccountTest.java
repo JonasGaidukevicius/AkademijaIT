@@ -30,7 +30,7 @@ class CreditBankAccountTest {
 
     @Test
     public void shouldAllowDebitingAnAccount() {
-        CreditBankAccount creditBankAccount = new CreditBankAccount("LT1");
+        CreditBankAccount creditBankAccount = new CreditBankAccount("");
         creditBankAccount.credit(10.0);
         creditBankAccount.debit(2.0);
         assertEquals(8.0, creditBankAccount.getBalance(), 0.01);
