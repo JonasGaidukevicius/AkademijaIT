@@ -22,7 +22,7 @@ public class BankAccount{
 
     public void credit(double amount) {
         if(amount > 0){
-            double interest = interestStrategy.applyInterest(this.balance);
+            double interest = this.interestStrategy.applyInterest(this.balance);
             this.balance += amount - interest;
 
         }

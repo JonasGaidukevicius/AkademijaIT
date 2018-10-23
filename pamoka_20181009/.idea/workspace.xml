@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="094e3f00-d995-48fe-b356-ff42cff08e67" name="Default Changelist" comment="" />
+    <list default="true" id="094e3f00-d995-48fe-b356-ff42cff08e67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/adapterexample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/fancy/NewProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/old/OldSmsProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/old/SmsProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/sender/MessageSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181016(strategy)/src/lt/vtvpmc/ems/akademijait/jonas/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016(strategy)/src/lt/vtvpmc/ems/akademijait/jonas/BankAccount.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +59,12 @@
     <session id="-631737953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/spausdinimas/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="285">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
@@ -105,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/spausdinimas/Spausdinimas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="480">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
@@ -170,6 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,8 +256,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +265,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539595629016" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ashop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181016(strategy)" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -408,8 +424,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26730564" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26996806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -521,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/spausdinimas/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="285">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
@@ -542,7 +559,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/spausdinimas/Spausdinimas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="480">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>

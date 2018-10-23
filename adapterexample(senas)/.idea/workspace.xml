@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b24693b-361c-471a-8caf-8162f5a9abff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../decoratorexample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/libraries/ITAPhones.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/Test/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterExclamationMarkDecoratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/Test/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/Test/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterUpperCaseDecoratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/pamoka_20181023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/adapteris/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterExclamationMarkDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/GreeterUpperCaseDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181023/src/lt/vtvpmc/ems/akademijait/jonas/dekoratorius/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iteratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/adapterexample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/fancy/NewProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/old/OldSmsProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/old/SmsProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/sender/MessageSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapterexample/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181009/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181009/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181016(strategy)/src/lt/vtvpmc/ems/akademijait/jonas/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016(strategy)/src/lt/vtvpmc/ems/akademijait/jonas/BankAccount.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,12 +82,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-82869717">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="adapterexample" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/old/SmsProvider.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,12 +110,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/old/OldSmsProvider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="30" />
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/fancy/NewProvider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -121,16 +128,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/MessageSender.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
@@ -189,43 +196,42 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -233,48 +239,35 @@
               <item name="fancy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
-              <item name="sender" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="adapterexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adapterexample" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adapterexample(senas)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adapterexample(senas)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,10 +398,9 @@
     <option name="totallyTimeSpent" value="1657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
-    <editor active="true" />
+    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861878" visible="true" weight="0.3111588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861878" visible="true" weight="0.314164" />
       <window_info id="Structure" order="1" sideWeight="0.5013812" side_tool="true" weight="0.3111588" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5013812" side_tool="true" weight="0.3111588" />
@@ -504,36 +496,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/fancy/NewProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/old/OldSmsProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="30" />
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/MessageSender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#251#252#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/fancy/NewProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
