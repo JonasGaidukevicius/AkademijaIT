@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6583f7-1f72-47b7-bdb3-ae248eaeb6df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/Kodai iš paskaitų.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/20181001/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/20181001/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/20181001/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/GcmLcm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/GreatestCommonDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/LeastCommonMultiple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/PrimeNumberOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingBubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingInsertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingMerge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingQuick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingSelection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/algorithms/SortingString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/lt/vtvpmc/ems/akademijait/zwaclaw/ArraysDifferent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/lt/vtvpmc/ems/akademijait/zwaclaw/BigNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/lt/vtvpmc/ems/akademijait/zwaclaw/BigNumbersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/lt/vtvpmc/ems/akademijait/zwaclaw/Changers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/out/production/Kodai iš paskaitų/lt/vtvpmc/ems/akademijait/zwaclaw/ChangersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/src/lt/vtvpmc/ems/akademijait/zwaclaw/ArraysDifferent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/src/lt/vtvpmc/ems/akademijait/zwaclaw/BigNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/src/lt/vtvpmc/ems/akademijait/zwaclaw/BigNumbersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/src/lt/vtvpmc/ems/akademijait/zwaclaw/Changers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/20181001/src/lt/vtvpmc/ems/akademijait/zwaclaw/ChangersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/GcmLcm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/GreatestCommonDivisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/LeastCommonMultiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/PrimeNumberOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingBubble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingInsertion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingQuick.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingSelection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/src/SortingString.java" beforeDir="false" />
+    <list default="true" id="e14036be-2677-4188-bef8-7a074b03d059" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/uiDesigner.xml" beforeDir="false" />
@@ -347,7 +306,6 @@
       <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/ChangerTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/PaieskosLaikas.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,132 +313,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="889988984">
+    <session id="-706496122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="304" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="304" />
-        </counts>
-      </usages-collector>
     </session>
-    <session id="-2127329646">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="275" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="275" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -498,23 +342,48 @@
         <subPane>
           <expand>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jonas" type="462c0819:PsiDirectoryNode" />
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imperial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -525,23 +394,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538137118434" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testas" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="lt.vtvpmc.ems.akademijait.jonas" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ashop" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -555,159 +408,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MetodasTest">
-    <configuration name="NumbersTest.powerOfNumber" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testai" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.jonas" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.NumbersTest" />
-      <option name="METHOD_NAME" value="powerOfNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetodasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testai" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.jonas" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.MetodasTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Android JUnit.NumbersTest.powerOfNumber" />
-      <item itemvalue="JUnit.MetodasTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MetodasTest" />
-        <item itemvalue="Android JUnit.NumbersTest.powerOfNumber" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d6583f7-1f72-47b7-bdb3-ae248eaeb6df" name="Default Changelist" comment="" />
-      <created>1537951766601</created>
+      <changelist id="e14036be-2677-4188-bef8-7a074b03d059" name="Default Changelist" comment="" />
+      <created>1540656773527</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537951766601</updated>
+      <updated>1540656773527</updated>
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 04m 53s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 06m 36s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 12m 15s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 13m 25s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 13m 57s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.28 at 14h 58m 05s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.28 at 14h 59m 33s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="MetodasTest - 2018.09.28 at 15h 10m 23s.xml">
-      <configuration name="MetodasTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MetodasTest - 2018.09.28 at 15h 10m 38s.xml">
-      <configuration name="MetodasTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2550586" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3276492" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

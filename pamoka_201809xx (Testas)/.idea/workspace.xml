@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6583f7-1f72-47b7-bdb3-ae248eaeb6df" name="Default Changelist" comment="">
+    <list default="true" id="59a00991-4d20-4ad8-b813-401b96e847e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kodai iš paskaitų/.idea/vcs.xml" beforeDir="false" />
@@ -57,6 +57,7 @@
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Modifikatoriaia.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonasb/Modifikatoriaib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testai/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/sbt.xml" beforeDir="false" />
@@ -355,62 +356,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="889988984">
+    <session id="-1075146017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="groovy" value="1" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="304" />
+          <entry key="java" value="2782" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="304" />
+          <entry key="JAVA" value="2782" />
         </counts>
       </usages-collector>
     </session>
-    <session id="-2127329646">
+    <session id="202502586">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="275" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="275" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -418,40 +401,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -475,18 +446,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Testas2.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Testas.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Testas3.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Ciklai.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180925.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_b.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_mok_b.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_mok.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180926_mok.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180926_mok_greitis.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/junit/Main.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/junit/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/junit/CalculatorTest.groovy" />
+        <option value="$PROJECT_DIR$/src/lt/gaidukevicius/junit/CalculatorTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="51" />
-    <option name="width" value="1400" />
-    <option name="height" value="904" />
+    <option name="x" value="7" />
+    <option name="y" value="31" />
+    <option name="width" value="1349" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -494,53 +476,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
+              <item name="Testas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
+              <item name="Testas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testai" type="462c0819:PsiDirectoryNode" />
+              <item name="Testas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jonas" type="462c0819:PsiDirectoryNode" />
+              <item name="gaidukevicius" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Testai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Testas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gaidukevicius" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538137118434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537950640695" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testas" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testavimas" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="lt.vtvpmc.ems.akademijait.jonas" />
+      <recent name="lt.gaidukevicius.junit" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lt.gaidukevicius" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -555,46 +544,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MetodasTest">
-    <configuration name="NumbersTest.powerOfNumber" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testai" />
+  <component name="RunManager" selected="Application.Fibonaci180926_mok_greitis">
+    <configuration name="Fibonaci180926_mok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.gaidukevicius.Fibonaci180926_mok" />
+      <module name="Testas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
+          <option name="PATTERN" value="lt.gaidukevicius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.jonas" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.NumbersTest" />
-      <option name="METHOD_NAME" value="powerOfNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testai" />
+    <configuration name="Fibonaci180926_mok_greitis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.gaidukevicius.Fibonaci180926_mok_greitis" />
+      <module name="Testas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
+          <option name="PATTERN" value="lt.gaidukevicius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.jonas" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.MetodasTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paieska180926_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.gaidukevicius.Paieska180926_b" />
+      <module name="Testas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gaidukevicius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paieska180926_mok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.gaidukevicius.Paieska180926_mok" />
+      <module name="Testas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gaidukevicius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paieska180926_mok_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.gaidukevicius.Paieska180926_mok_b" />
+      <module name="Testas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gaidukevicius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.NumbersTest.powerOfNumber" />
-      <item itemvalue="JUnit.MetodasTest" />
+      <item itemvalue="Application.Paieska180926_b" />
+      <item itemvalue="Application.Paieska180926_mok" />
+      <item itemvalue="Application.Paieska180926_mok_b" />
+      <item itemvalue="Application.Fibonaci180926_mok" />
+      <item itemvalue="Application.Fibonaci180926_mok_greitis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MetodasTest" />
-        <item itemvalue="Android JUnit.NumbersTest.powerOfNumber" />
+        <item itemvalue="Application.Fibonaci180926_mok_greitis" />
+        <item itemvalue="Application.Fibonaci180926_mok" />
+        <item itemvalue="Application.Paieska180926_mok" />
+        <item itemvalue="Application.Paieska180926_mok_b" />
+        <item itemvalue="Application.Paieska180926_b" />
       </list>
     </recent_temporary>
   </component>
@@ -603,106 +632,162 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d6583f7-1f72-47b7-bdb3-ae248eaeb6df" name="Default Changelist" comment="" />
-      <created>1537951766601</created>
+      <changelist id="59a00991-4d20-4ad8-b813-401b96e847e5" name="Default Changelist" comment="" />
+      <created>1537776821229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537951766601</updated>
+      <updated>1537776821229</updated>
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 04m 53s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 06m 36s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 12m 15s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 13m 25s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.26 at 12h 13m 57s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.28 at 14h 58m 05s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="NumbersTest_powerOfNumber - 2018.09.28 at 14h 59m 33s.xml">
-      <configuration name="NumbersTest.powerOfNumber" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="MetodasTest - 2018.09.28 at 15h 10m 23s.xml">
-      <configuration name="MetodasTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MetodasTest - 2018.09.28 at 15h 10m 38s.xml">
-      <configuration name="MetodasTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2550586" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3276492" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2593184" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34735203" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Metodas.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="201">
+          <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/MetodasTest.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Testas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Testas3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Ciklai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Testas2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_mok_b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Paieska180926_mok.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180925.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180926_mok.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/Fibonaci180926_mok_greitis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/CalculatorTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/NumbersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/gaidukevicius/junit/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
