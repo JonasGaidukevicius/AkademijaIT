@@ -9,4 +9,5 @@ public class MessageSender {
             && provider.sendMessage(370250211, "Labas rytas!")
             && provider.sendMessage(584395839, "Labas rytas!");
     }
+    
 }

@@ -10,21 +10,26 @@ public class CubanBirzuBreweryTest {
     
     @Test
     public void shouldCorrectlyApplyCubanMaltTax() {
-        Brewery cubanBirzuBrewery = new CubanBreweryDecorator(new BirzuBrewery());
+        Brewery cubanBirzuBrewery = 
+                new CubanBreweryDecorator(
+                        new BirzuBrewery()
+                );
         
-        int bottles = cubanBirzuBrewery.brewBeer(10, 10, 10);
+        int bottles = cubanBirzuBrewery.brewBeer(
+                10, 10, 10
+        );
         
         assertEquals(18, bottles);
-
-        //o kaip veiks, jeigu sukursiu objekta ne interfeiso tipo, o dekoratoriaus tipo?
-        CubanBreweryDecorator kubietiska = new CubanBreweryDecorator(new BirzuBrewery());
-        int bottles1 = cubanBirzuBrewery.brewBeer(10, 10, 10);
-        assertEquals(18, bottles1);
     }
     
     @Test
     public void shouldBePOsibleToApplyMaltAndBottleTax() {
-        Brewery cubanBirzuBreweryMinusBottle = new BottleBoxTaxDecorator(new CubanBreweryDecorator(new BirzuBrewery()));
+        Brewery cubanBirzuBreweryMinusBottle =
+                new BottleBoxTaxDecorator(
+                    new CubanBreweryDecorator(
+                            new BirzuBrewery()
+                    )
+                );
         
         int bottles = cubanBirzuBreweryMinusBottle.brewBeer(
                 10, 10, 10
