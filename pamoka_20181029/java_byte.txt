@@ -1,0 +1,7 @@
+The NumberFormat class formats numbers, monetary quantities, and percentages as appropriate for the default or specified locale.
+DateFormat formats dates and times in a locale-specific way.
+The concrete DecimalFormat and SimpleDateFormat subclasses of these classes can be used for customized number, date, and time formatting.
+MessageFormat allows substitution of dynamic values, including formatted numbers and dates, into static message strings.
+ChoiceFormat formats a number using an enumerated set of string values.
+Collator compares strings according to the customary sorting order for a locale.
+BreakIterator scans text to find word, line, and sentence boundaries following locale-specific rules.
