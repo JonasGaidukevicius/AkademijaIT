@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94cd13b9-e6dd-4560-8d24-6292cfd2c0cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/pamoka_20181105.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionKopija.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" afterDir="false" />
-    </list>
+    <list default="true" id="94cd13b9-e6dd-4560-8d24-6292cfd2c0cd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +47,11 @@
     <session id="69327956">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -112,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="45" />
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="225">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="303">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierByteByByte.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="180">
               <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -206,7 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,12 +210,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541414527468" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181105" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -374,9 +355,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
+    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26464325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,13 +396,6 @@
     <entry file="file://$PROJECT_DIR$/java_new.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/SimpleRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_is_desktop.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -439,10 +413,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Jonas.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/SimpleRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="45" />
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -456,9 +440,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierByteByByte.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="180">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -466,23 +460,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jonas.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="303">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
