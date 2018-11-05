@@ -7,7 +7,7 @@ public class JavaIO {
     public static void main(String[] args) throws Exception{
         //bufferReader();
         systemInReader();
-        //inputStreamReder();
+        inputStreamReder();
     }
 
     public static void bufferReader() throws Exception{
@@ -22,6 +22,7 @@ public class JavaIO {
 
     }
 
+
     //metodas, kad įsitikinti, kad System.in duoda baitus
     public static void systemInReader() throws Exception{
         for(;;){
@@ -33,6 +34,7 @@ public class JavaIO {
 
         }
     }
+
 
     //metodas, kad įsitikinti, kad InputStreamReader dirba su charais
     public static void inputStreamReder() throws Exception{

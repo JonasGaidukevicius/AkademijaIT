@@ -1,0 +1,13 @@
+Date: Mon Nov 05 11:37:01 EET 2018
+Height: 1.75
+Mass: 72
+BMI: 23.510204081632654
+Date: Mon Nov 05 11:41:40 EET 2018
+Height: 1.73
+Mass: 65
+BMI: 21.71806608974573
+Date: Mon Nov 05 11:43:21 EET 2018
+Height: 1.75
+Mass: 68
+BMI: 22.20408163265306
+-----------------------

@@ -12,7 +12,7 @@ public class ScannerFileReader_V2 {
 
     public static void readFileOne()throws Exception{
         String separator = File.separator;
-        String path = separator + "home" + separator + "jonasnamai" + separator + "Desktop" + separator + "java_desktop.txt";
+        String path = separator + "home" + separator + "jonas" + separator + "Desktop" + separator + "java_desktop.txt";
         File file = new File(path);
         Scanner reader = new Scanner(file);
 

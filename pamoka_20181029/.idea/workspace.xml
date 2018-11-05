@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cd13b9-e6dd-4560-8d24-6292cfd2c0cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/pamoka_20181105.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionKopija.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_is_desktop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/java_is_desktop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,33 +33,34 @@
     <session id="314545983">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1936" />
+          <entry key="java" value="3187" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1936" />
+          <entry key="JAVA" value="3187" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
-          <entry key="txt" value="8" />
+          <entry key="java" value="6" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -96,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="420">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,11 +141,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,10 +184,12 @@
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/SimpleRecursion.java" />
         <option value="$PROJECT_DIR$/java.txt" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierByteByByte.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierCharByChar.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/KunoMasesIndeksas.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java" />
       </list>
     </option>
   </component>
@@ -186,7 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,11 +229,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540913395943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541414527468" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -233,12 +253,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerFileReader">
-    <configuration name="FileCopierByteByByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BMIcalculator">
+    <configuration name="BMIcalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.FileCopierByteByByte" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.BMIcalculator" />
       <module name="pamoka_20181029" />
       <extension name="coverage">
         <pattern>
@@ -250,11 +270,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileCopierCharByChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FileCopierByteByByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.FileCopierCharByChar" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.FileCopierByteByByte" />
       <module name="pamoka_20181029" />
       <extension name="coverage">
         <pattern>
@@ -298,11 +318,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ScannerFileReader_V2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.SimpleRecursion" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.rekursija.ScannerFileReader_V2" />
       <module name="pamoka_20181029" />
       <extension name="coverage">
         <pattern>
@@ -324,19 +344,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleRecursion" />
       <item itemvalue="Application.JavaIO" />
       <item itemvalue="Application.FileCopierByteByByte" />
-      <item itemvalue="Application.FileCopierCharByChar" />
       <item itemvalue="Application.ScannerFileReader" />
+      <item itemvalue="Application.ScannerFileReader_V2" />
+      <item itemvalue="Application.BMIcalculator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerFileReader" />
-        <item itemvalue="Application.FileCopierCharByChar" />
+        <item itemvalue="Application.BMIcalculator" />
         <item itemvalue="Application.JavaIO" />
         <item itemvalue="Application.FileCopierByteByByte" />
-        <item itemvalue="Application.SimpleRecursion" />
+        <item itemvalue="Application.ScannerFileReader_V2" />
+        <item itemvalue="Application.ScannerFileReader" />
       </list>
     </recent_temporary>
   </component>
@@ -354,9 +374,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25825346" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +385,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,16 +415,6 @@
     <entry file="file://$PROJECT_DIR$/java_new.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_is_desktop.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/SimpleRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -412,10 +422,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java_is_desktop.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="420">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -439,17 +466,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java">
+    <entry file="file://$PROJECT_DIR$/Jonas.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="210">
+          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

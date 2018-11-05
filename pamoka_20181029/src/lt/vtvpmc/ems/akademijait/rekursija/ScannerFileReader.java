@@ -12,10 +12,11 @@ public class ScannerFileReader {
 
     public static void readFileOne()throws Exception{
         String separator = File.separator;
-        String path = separator + "home" + separator + "jonasnamai" + separator + "Desktop" + separator + "java_desktop.txt";
+        String path = separator + "home" + separator + "jonas" + separator + "Desktop" + separator + "java_desktop.txt";
         File file = new File(path);
         Scanner reader = new Scanner(file);
 
+        /* 1 variantas
         BufferedWriter out = new BufferedWriter(new FileWriter("java_is_desktop.txt"));
         out.write("Write the string to text file");
         out.newLine();
@@ -32,7 +33,8 @@ public class ScannerFileReader {
             out.write(line);
             out.newLine();
         }
-
+        out.close();
+        */
 
 
 
