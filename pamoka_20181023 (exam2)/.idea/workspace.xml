@@ -2,309 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14036be-2677-4188-bef8-7a074b03d059" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Listai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonas/Modifikatoriaia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/out/production/Pamoka20181003/lt/vtvpmc/ems/akademijait/jonasb/Modifikatoriaib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/pamoka_20181003.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Listai.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonas/Modifikatoriaia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pamoka20181003/src/lt/vtvpmc/ems/akademijait/jonasb/Modifikatoriaib.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/adapterexample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/main/java/lt/vtvpmc/fancy/NewProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/main/java/lt/vtvpmc/old/OldSmsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/main/java/lt/vtvpmc/old/SmsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/main/java/lt/vtvpmc/sender/MessageSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/classes/lt/vtvpmc/fancy/NewProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/classes/lt/vtvpmc/old/OldSmsProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/classes/lt/vtvpmc/old/SmsProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/classes/lt/vtvpmc/sender/MessageSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/classes/lt/vtvpmc/sender/NewToOldAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(naujas)/target/test-classes/lt/vtvpmc/sender/MessageSenderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/adapterexample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/main/java/lt/vtvpmc/fancy/NewProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/main/java/lt/vtvpmc/old/OldSmsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/main/java/lt/vtvpmc/old/SmsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/main/java/lt/vtvpmc/sender/MessageSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adapterexample(senas)/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/ashop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/main/java/acart/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/main/java/ashop/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/main/java/ashop/Medicine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/main/java/ashop/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/main/java/ashop/Wine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/test/java/acart/ShoppingCartTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/test/java/ashop/MedicineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/test/java/ashop/ProductTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181012)/src/test/java/ashop/WineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/acart/DiscountStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/acart/NoDiscountStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/acart/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/ashop/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/ashop/Medicine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/ashop/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/main/java/ashop/Wine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/test/java/acart/ShoppingCartTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/test/java/ashop/MedicineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/test/java/ashop/ProductTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/src/test/java/ashop/WineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/acart/DiscountStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/acart/NoDiscountStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/acart/ShoppingCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/ashop/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/ashop/Medicine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/ashop/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/classes/ashop/Wine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/acart/ShoppingCartTest$TestDiscountStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/acart/ShoppingCartTest$TestProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/acart/ShoppingCartTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/ashop/MedicineTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/ashop/ProductTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ashop(20181016)/target/test-classes/ashop/WineTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/banklogging.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/main/java/lt/vtvpmc/logging/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/main/java/lt/vtvpmc/logging/BankException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/main/java/lt/vtvpmc/logging/InsufficientBalanceException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/main/java/lt/vtvpmc/logging/NegativeAmountException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/src/test/java/lt/vtvpmc/logging/BankAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/classes/lt/vtvpmc/logging/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/classes/lt/vtvpmc/logging/BankException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/classes/lt/vtvpmc/logging/InsufficientBalanceException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/classes/lt/vtvpmc/logging/NegativeAmountException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../banklogging/target/test-classes/lt/vtvpmc/logging/BankAccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/decoratorexample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/main/java/lt/vtvpmc/beer/BirzuBrewery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/main/java/lt/vtvpmc/beer/BottleBoxTaxDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/main/java/lt/vtvpmc/beer/Brewery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/main/java/lt/vtvpmc/beer/CubanBreweryDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/main/java/lt/vtvpmc/beer/SvyturysBrewery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/test/java/BirzuBreweryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../decoratorexample/src/test/java/CubanBirzuBreweryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/AbstractCubeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/ImperialCube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/MetricCube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/AbstractCubeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/ImperialCube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/MetricCube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/imperials-javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/AbstractPostOfficeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/IllegalPackageException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/Package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/PostOffice.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/AbstractPostOfficeTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/IllegalPackageException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/Package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/PostOffice.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2/postoffice-javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/iteratorexample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/EvenNumberIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/FiveFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/IntArrayIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/IntIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/main/java/lt/vtvpmc/iterator/SingleFiveIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/test/java/lt/vtvpmc/iterator/FiveFinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/src/test/java/lt/vtvpmc/iterator/IntArrayIteratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/EvenNumberIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/FiveFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/IntArrayIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/IntIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/classes/lt/vtvpmc/iterator/SingleFiveIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/test-classes/lt/vtvpmc/iterator/FiveFinderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iteratorexample/target/test-classes/lt/vtvpmc/iterator/IntArrayIteratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/ltvtvpmcprinter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/main/java/lt/vtvpmc/printer/InkCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/main/java/lt/vtvpmc/printer/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/main/java/lt/vtvpmc/printer/shapes/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/main/java/lt/vtvpmc/printer/shapes/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/test/java/lt/vtvpmc/printer/CircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/test/java/lt/vtvpmc/printer/InkCalculatorITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/test/java/lt/vtvpmc/printer/InkCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ltvtvpmcprinter(20181016)/src/test/java/lt/vtvpmc/printer/RectangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/.idea/oopbank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/oopbank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/src/lt/vtvpmc/oopbank/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/src/lt/vtvpmc/oopbank/CreditBankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/test/lt/vtvpmc/oopbank/BankAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oopbank/test/lt/vtvpmc/oopbank/CreditBankAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/BankAccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/CreditBankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/CreditBankAccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/Preke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/PrekeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/Spauda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/out/production/pamoka20181008/lt/vtvpmc/ems/akademijait/jonas/Vaistai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/pamoka20181008.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/BankAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/CreditBankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/CreditBankAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/Preke.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/PrekeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/Spauda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka20181008/src/lt/vtvpmc/ems/akademijait/jonas/Vaistai.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016(strategy)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07Test07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringISesioliktaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/KeisciuStringIAstuntaini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/Matrica17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/MinIrMaxPaieskaMasyve16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/MinIrMaxPaieskaMasyve16Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/out/production/paskaita20181002_uzduotys/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/paskaita20181002_uzduotys.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/AtvirkstinisString08Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/DidziausiasSkaicius07Test07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/FaktorialasPaprastas15Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuDvejetainiIString11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringIDvejetaini10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeiciuStringISesioliktaini.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/KeisciuStringIAstuntaini.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Matrica17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/MinIrMaxPaieskaMasyve16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/MinIrMaxPaieskaMasyve16Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/Pasikartojantys14Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/SkaitmenuSuma18Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/StringIAstuntaini12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita20181002_uzduotys/src/lt/vtvpmc/ems/akademijait/jonas/TeigiamasArNeigiamas09Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/ArraysDifferent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/BigNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/BigNumbersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/Changer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/ChangerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/out/production/paskaita_20181001/lt/vtvpmc/ems/akademijait/jonas/PaieskosLaikas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/paskaita_20181001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/ArraysDifferent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/BigNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/BigNumbersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/Changer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/ChangerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paskaita_20181001/src/lt/vtvpmc/ems/akademijait/jonas/PaieskosLaikas.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/.idea/libraries/philatelist_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/exam1_mano.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistBaseTestExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181105/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -322,15 +31,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="35497950">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="51" />
-    <option name="width" value="1400" />
-    <option name="height" value="904" />
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -338,63 +55,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="pamoka_20181023 (exam2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181023 (exam2)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
+              <item name="pamoka_20181023 (exam2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181023 (exam2)" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
-              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
-              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
-              <item name="lt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
-              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
-              <item name="lt" type="462c0819:PsiDirectoryNode" />
-              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
-              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
-              <item name="lt" type="462c0819:PsiDirectoryNode" />
-              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam2 (20181023)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam2 (20181023)" type="462c0819:PsiDirectoryNode" />
-              <item name="imperials-javadoc" type="462c0819:PsiDirectoryNode" />
-              <item name="lt" type="462c0819:PsiDirectoryNode" />
-              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="imperial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ashop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181023" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -424,16 +106,13 @@
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -441,14 +120,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
