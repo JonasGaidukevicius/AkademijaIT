@@ -9,6 +9,10 @@ public class JavaSet {
         Set<String> treeSet = new TreeSet<>();
 
 
+        String ll = "Labas";
+        System.out.println(ll.codePointAt(1));
+        System.out.println(ll.charAt(1));
+
         hashSet.add("Tomas");
         hashSet.add("Daina");
         hashSet.add("Vytas");
@@ -35,18 +39,5 @@ public class JavaSet {
 
         System.out.println(treeSet.contains("Tomas1"));
 
-        int[] intArray = {1,2,3,4,0,5,6,7,8,9,0};
-
-        //List< Integer > list = Arrays.asList((Integer) intArray);
-       // Set<Integer> integerSet = new TreeSet<Integer>(list);
-
-
-
-
     }
-
-
-
-
-
 }

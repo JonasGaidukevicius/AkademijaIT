@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7136ce-b001-424c-84f0-33a9127b0cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/Hhhhh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/pamoka_20181107.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/JavaHashEqualsSetMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/JavaList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/JavaMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/JavaSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181107/src/lt/vtvpmc/ems/akademijait/jonas/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam1_mano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam1_mano.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c7136ce-b001-424c-84f0-33a9127b0cf7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +13,10 @@
     <session id="1994443382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -94,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/PhilatelistBaseTest.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="150">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -126,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="150">
               <caret line="12" column="57" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -138,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/CollectionOfPostStamps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="75">
               <caret line="10" column="79" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -192,7 +175,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,15 +197,11 @@
               <item name="exam1_mano" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="exam1_mano" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="philatelist-1.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,7 +209,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541585959905" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181107" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -312,9 +290,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
+    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25559106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,6 +326,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist.java" />
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistBaseTestExam.java" />
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/PhilatelistBaseTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/Philatelist.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -355,16 +340,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/PostStamp.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="150">
           <caret line="12" column="57" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -374,7 +352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/philatelist/CollectionOfPostStamps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="75">
           <caret line="10" column="79" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -382,10 +360,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/PhilatelistBaseTest.class">
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist/philatelist-1.0.jar!/philatelist/PostStamp.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="52" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
