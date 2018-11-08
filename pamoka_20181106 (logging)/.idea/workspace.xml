@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8aab8897-81ba-4da7-aa16-86b225370dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/MyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistImpl_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/libraries/exam_socialnetwork_tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkTest.java" afterDir="false" />
+    <list default="true" id="dab86368-92f9-4eeb-9cf2-69f4908a8627" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/misc.xml" beforeDir="false" />
@@ -111,7 +99,6 @@
       <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjects.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjectsList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjectsListPatobulintas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,43 +108,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1859547274">
+    <session id="332085171">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="log" value="2" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Log" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1263" />
+          <entry key="properties" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1263" />
+          <entry key="Properties" value="43" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="86865935">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-950665036">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="4" />
+          <entry key="log" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="416" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="416" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-252354397">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -165,48 +177,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/MyTestSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="330">
+              <caret line="23" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -226,17 +224,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/Main.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/MyTestSolution.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/Main.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="48" />
-    <option name="width" value="1280" />
-    <option name="height" value="1002" />
+    <option name="width" value="1920" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -246,48 +243,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="egzaminas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pamoka_20181108_egzamino_paaiskinimas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="pamoka_20181106 (logging)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181106 (logging)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541690012783" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541494380248" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam1_mano (is naujo)" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="lt.vtvpmc.ems.akademijait.egzaminas" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,24 +281,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="MyTestSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pamoka_20181108_egzamino_paaiskinimas" />
+  <component name="RunManager" selected="Application.JavaLogging">
+    <configuration name="JavaLogging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akadenmijait.jonas.logging.JavaLogging" />
+      <module name="pamoka_20181106" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.egzaminas.*" />
+          <option name="PATTERN" value="lt.vtvpmc.ems.akadenmijait.jonas.logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.egzaminas" />
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.egzaminas.MyTestSolution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.Main" />
+      <module name="pamoka_20181106" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.JavaLogging" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyTestSolution" />
+        <item itemvalue="Application.JavaLogging" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -327,33 +324,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8aab8897-81ba-4da7-aa16-86b225370dca" name="Default Changelist" comment="" />
-      <created>1541668329351</created>
+      <changelist id="dab86368-92f9-4eeb-9cf2-69f4908a8627" name="Default Changelist" comment="" />
+      <created>1541486962580</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541668329351</updated>
+      <updated>1541486962580</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MyTestSolution - 2018.11.08 at 11h 44m 01s.xml">
-      <configuration name="MyTestSolution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTestSolution - 2018.11.08 at 12h 01m 25s.xml">
-      <configuration name="MyTestSolution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTestSolution - 2018.11.08 at 12h 03m 28s.xml">
-      <configuration name="MyTestSolution" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTestSolution - 2018.11.08 at 12h 11m 51s.xml">
-      <configuration name="MyTestSolution" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26091588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,53 +367,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../exam-library.jar!/lt/itakademija/exam/SequenceGenerator.class">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../exam-library.jar!/lt/itakademija/exam/CurrencyRatesProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/MyTestSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="330">
+          <caret line="23" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java">
+    <entry file="file://$PROJECT_DIR$/log4j-app.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -490,7 +449,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>pamoka_20181108_egzamino_paaiskinimas</last-edited>
+          <last-edited>pamoka_20181106</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -514,7 +473,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>exam-library</last-edited>
+          <last-edited>org.slf4j:slf4j-log4j12:1.7.25</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
