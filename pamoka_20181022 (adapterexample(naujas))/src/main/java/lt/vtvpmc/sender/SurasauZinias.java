@@ -1,6 +1,7 @@
 package lt.vtvpmc.sender;
 
 public class SurasauZinias {
+}
 /*
     ADAPTER
     Naudojama tada, kai:
@@ -84,5 +85,4 @@ public class SurasauZinias {
         MessageSender sender1 = new MessageSender();
         boolean result1 = sender1.sendMessages(new OldSmsProvider());
         assertTrue(result1);
-    }
-}
+    }*/
