@@ -2,48 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ef548eb-83cf-4269-a4e9-8b2bbf9933d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/libraries/junit_junit_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/Exam1_news-service_naujas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/SafeArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam1_mano_pacio_news_service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/libraries/junit_junit_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/exam1_naujausias_news_service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/SafeArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/ArticleNoSwearWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/libraries/exam_v11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/Pasibandymai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/this_pasibandymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/libraries/documents_organizer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/exam3_Augusto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentConsumerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentProducerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/MyBasetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/libraries/documents_organizer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentOrganizerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/ProjectManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exam1_mano (is naujo)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/junit_junit_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/news_service_assignment_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/exam1_news-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/ArticleNoSwearWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/src/main/java/lt/vtvpmc/sender/SurasauZinias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/src/main/java/lt/vtvpmc/sender/SurasauZinias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,44 +67,49 @@
     <session id="-686222282">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="class" value="3" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="159" />
+          <entry key="java" value="1223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="159" />
+          <entry key="JAVA" value="1223" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="105">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,11 +118,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service/news-service-assignment-1.0.jar!/lt/vtvpmc/NewsServiceImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service/news-service-assignment-1.0.jar!/lt/vtvpmc/ArticleImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -127,14 +170,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="48" />
-    <option name="width" value="1280" />
-    <option name="height" value="1002" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +189,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,19 +202,46 @@
               <item name="exam1_mano_pacio_news_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exam1_mano_pacio_news_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam1_mano_pacio_news_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="news_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam1_mano_pacio_news_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="exam1_mano_pacio_news_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="news-service-assignment-1.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="exam1_mano_pacio_news_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="news-service-assignment-1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="news-service-assignment-1.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam1_mano_pacio_news_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="news-service-assignment-1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="news-service-assignment-1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541760280990" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service/news-service-assignment-1.0.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541779120543" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -191,6 +263,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="MyNewsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam1_mano_pacio_news_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.news_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.news_service" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.news_service.MyNewsServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyNewsServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -204,34 +297,68 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 22m 35s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 22m 37s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 22m 42s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 23m 47s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 24m 56s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 28m 34s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 28m 46s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 57m 02s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 57m 56s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyNewsServiceTest - 2018.11.09 at 17h 58m 44s.xml">
+      <configuration name="MyNewsServiceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -240,20 +367,41 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service/news-service-assignment-1.0.jar!/lt/vtvpmc/ArticleImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service/news-service-assignment-1.0.jar!/lt/vtvpmc/NewsServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

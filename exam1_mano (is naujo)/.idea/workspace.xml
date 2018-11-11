@@ -2,48 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7136ce-b001-424c-84f0-33a9127b0cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/libraries/junit_junit_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/Exam1_news-service_naujas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/SafeArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/libraries/junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/exam1_mano_pacio_news_service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/libraries/junit_junit_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/exam1_naujausias_news_service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/MyNewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_naujausias_news_service/src/lt/vtvpmc/ems/akademijait/news/SafeArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/ArticleNoSwearWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/libraries/exam_v11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/Pasibandymai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/this_pasibandymas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/libraries/documents_organizer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/exam3_Augusto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentConsumerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentProducerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/MyBasetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/libraries/documents_organizer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentOrganizerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/ProjectManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/junit_junit_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/news_service_assignment_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/exam1_news-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/ArticleNoSwearWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/src/main/java/lt/vtvpmc/sender/SurasauZinias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/src/main/java/lt/vtvpmc/sender/SurasauZinias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,9 +129,10 @@
     <session id="900434461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -221,9 +233,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="48" />
-    <option name="width" value="1280" />
-    <option name="height" value="1002" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -233,8 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,6 +271,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +280,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541690012752" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam1_mano_pacio_news_service" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -394,7 +406,7 @@
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26411074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26677316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

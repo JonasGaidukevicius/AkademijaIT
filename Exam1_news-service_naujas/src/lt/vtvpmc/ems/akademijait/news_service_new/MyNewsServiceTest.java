@@ -5,10 +5,10 @@ import lt.vtvpmc.NewsService;
 
 public class MyNewsServiceTest extends BaseNewsServiceTest {
 
-    @org.junit.Test
+   /* @org.junit.Test
     public void getArticles(){
 
-    }
+    }*/
 
 
     @Override

@@ -12,6 +12,7 @@ public class JavaEnums {
         if(planet == Planets.Earth){
             System.out.println("Vedęs ir turi vaikų");
         }
+        System.out.println(Planets.Earth.getPlanetSize());
 
         switch (planet){
             case Mercury:

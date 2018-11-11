@@ -2,128 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c8a2d9-1624-48fa-81a2-dfee024d5d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/MyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/src/lt/vtvpmc/ems/akademijait/philatelist/PhilatelistImpl_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/junit_junit_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/exam1_news-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/libraries/exam_socialnetwork_tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/exam2_mano.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam2_mano/src/SocialNetworkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Egzaminai 2017/Exam1/news-service.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Egzaminai 2017/Exam1/philatelist.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181016 (strategy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181016 (strategy)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/Jonas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/java.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/java_byte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/java_is_desktop.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/java_new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/pamoka_20181029.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/BMIcalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierByteByByte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/FileCopierCharByChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/JavaIO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/ScannerFileReader_V2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181029/src/lt/vtvpmc/ems/akademijait/rekursija/SimpleRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/pamoka_20181105.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/failu_sistema/FileSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/failu_sistema/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaException3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionChecked2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181105/src/lt/vtvpmc/ems/akademijait/jonas/JavaExceptionKopija.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/log4j-app.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/out/production/pamoka_20181106/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/pamoka_20181106.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/src/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/libraries/org_apache_logging_log4j_log4j_core_2_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/debug-backup-11-06-18-11-43-34-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/debug-backup-11-06-18-11-45-42-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/debug-backup-11-06-18-11-45-52-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/log4j2-app.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/out/production/pamoka_20181106_2_versija/log4j2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/pamoka_20181106_2_versija.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/src/log4j2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_2_versija/src/lt/vtvpmc/ems/akademijait/logging2/JavaLogging2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/pamoka_20181106_papildoma.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/src/lt/vtvpmc/ems/akademijait/jonas/JavaFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_papildoma/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181107 (listai)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181107 (listai)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181107/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181107/.idea/pamoka_20181107.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181107/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181107/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/pamoka_20181108.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/people.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/people_kitas.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/people_kitas_patobulintas.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/generic/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/generic/Box2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/generic/GenericsMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/generic/StringBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/ReadObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/ReadObjectsList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/ReadObjectsListPatobulintas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjectsList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjectsListPatobulintas.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam3_document_organizer/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -178,19 +67,31 @@
     <session id="-1969021586">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="134" />
+          <entry key="java" value="284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="134" />
+          <entry key="JAVA" value="284" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -200,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/StringBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="165">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="e#263#264#0" expanded="true" />
@@ -212,14 +113,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/GenericsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -236,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="195">
               <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="e#250#251#0" expanded="true" />
@@ -263,8 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjects.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/serializacija/ReadObjects.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/serializacija/WriteObjectsList.java" />
@@ -276,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/Box.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/Box2.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/GenericsMain.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" />
       </list>
     </option>
   </component>
@@ -314,7 +233,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,14 +240,33 @@
               <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="b2602c69:ProjectViewProjectNode" />
               <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="akademijait" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pamoka_20181108 (Enum, Serialization, Generic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="akademijait" type="462c0819:PsiDirectoryNode" />
+              <item name="jonas" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541671903944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541785833396" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -351,13 +288,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericsMain">
+  <component name="RunManager" selected="Application.JavaEnums">
     <configuration name="GenericsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.generic.GenericsMain" />
       <module name="pamoka_20181108" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaEnums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.JavaEnums" />
+      <module name="pamoka_20181108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,19 +341,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteObjectsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.serializacija.WriteObjectsList" />
-      <module name="pamoka_20181108" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.serializacija.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WriteObjectsListPatobulintas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.serializacija.WriteObjectsListPatobulintas" />
       <module name="pamoka_20181108" />
@@ -418,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WriteObjectsList" />
       <item itemvalue="Application.ReadObjectsList" />
       <item itemvalue="Application.ReadObjectsListPatobulintas" />
       <item itemvalue="Application.WriteObjectsListPatobulintas" />
       <item itemvalue="Application.GenericsMain" />
+      <item itemvalue="Application.JavaEnums" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaEnums" />
         <item itemvalue="Application.GenericsMain" />
         <item itemvalue="Application.ReadObjectsListPatobulintas" />
         <item itemvalue="Application.WriteObjectsListPatobulintas" />
         <item itemvalue="Application.ReadObjectsList" />
-        <item itemvalue="Application.WriteObjectsList" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +388,7 @@
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,20 +420,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/people.bin">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -549,16 +472,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/StringBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="165">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="e#263#264#0" expanded="true" />
@@ -566,6 +485,23 @@
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/GenericsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -578,7 +514,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="195">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="e#250#251#0" expanded="true" />
@@ -589,13 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/generic/GenericsMain.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
