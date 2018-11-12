@@ -1,0 +1,42 @@
+public Money getBalance(Currency currency) {
+       Iterator<Account> iterator = allAccountsList.iterator();
+       Money balanceAmmount = new Money("0");
+       String money = "";
+       Account account =  null;
+
+       while(iterator.hasNext()){
+           account =  iterator.next();
+           if(account.getCurrency().equals(currency)){
+               balanceAmmount = balanceAmmount.add(account.getBalance());
+           }
+           else if(!account.getCurrency().equals(currency)){
+               Money convert = currencyConverter.convert(account.getCurrency(),
+                       currency, account.getBalance());
+               balanceAmmount =  balanceAmmount.add(convert);
+           }
+       }
+
+       return balanceAmmount;
+   }
+
+------------------------------------
+public Money getBalance(Currency currency) {
+       Iterator<Account> iterator = allAccountsList.iterator();
+       Money balanceAmmount = new Money("0");
+       String money = "";
+       Account account =  null;
+
+       while(iterator.hasNext()){
+           account =  iterator.next();
+           if(account.getCurrency().equals(currency)){
+               balanceAmmount = balanceAmmount.add(account.getBalance());
+           }
+           else if(!account.getCurrency().equals(currency)){
+               Money convert = currencyConverter.convert(account.getCurrency(),
+                       currency, account.getBalance());
+               balanceAmmount =  balanceAmmount.add(convert);
+           }
+       }
+
+       return balanceAmmount;
+   }
