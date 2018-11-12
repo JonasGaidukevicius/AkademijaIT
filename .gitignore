@@ -3,4 +3,5 @@ bin/
 *.class
 *.dll
 *.exe
+*.xml
 

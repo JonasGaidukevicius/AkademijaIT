@@ -21,19 +21,19 @@ public class Main {
                 .forEach((box) -> System.out.println(box));*/
 
         //arba
-        System.out.println("--Kitas variantas---");
+        System.out.println("--2 variantas---");
         /*boxes
                 .filter((box) -> box.getWeight() >= 0.5f)
                 .forEach(System.out::println);*/
 
-        System.out.println("--Kitas variantas---");
+        System.out.println("--3 variantas---");
         double totalWeight = boxes
                 .filter((box) -> box.getWeight() >= 0.5f)
                 .mapToDouble((box) -> box.getWeight())
                 .sum();
         System.out.println(totalWeight);
 
-        System.out.println("--Kitas variantas---");
+        System.out.println("--4 variantas---");
 
         List<Box> boxes1 = new ArrayList<>();
         boxes1.stream()
