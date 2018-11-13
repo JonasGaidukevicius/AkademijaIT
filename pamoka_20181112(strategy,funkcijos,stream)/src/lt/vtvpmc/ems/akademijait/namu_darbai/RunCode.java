@@ -23,7 +23,7 @@ public class RunCode {
                 .stream()
                 .filter((number) -> number.getEvenNumber() % 3 == 0)
                 .mapToInt((number) -> number.getEvenNumber() + 1)
-                .forEach((number) -> System.out.print(number + " "));
+                .forEach((number) -> System.out.print(number + ", "));
 
         System.out.println();
 
