@@ -1,3 +1,24 @@
 2018-11-06 10:56:12 INFO  JavaLogging:25 - Message from INFO level
 2018-11-06 10:59:44 INFO  JavaLogging:26 - Message from INFO level
 2018-11-06 10:59:44 INFO  JavaLogging:36 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:12:28 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:12:28 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:12:28 INFO  JavaLogging:37 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:12:49 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:12:49 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:12:49 INFO  JavaLogging:37 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:13:25 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:13:25 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:13:25 INFO  JavaLogging:37 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:14:00 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:14:00 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:14:00 WARN  JavaLogging:28 - Warn pranesimas
+2018-11-14 15:14:00 INFO  JavaLogging:38 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:14:10 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:14:10 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:14:10 WARN  JavaLogging:28 - Warn pranesimas
+2018-11-14 15:14:10 INFO  JavaLogging:38 - Failas nebuvo sukurtas, nes nėra tokios direktorijos
+2018-11-14 15:14:20 INFO  JavaLogging:26 - Message from INFO level
+2018-11-14 15:14:20 ERROR JavaLogging:27 - Error klaida
+2018-11-14 15:14:20 WARN  JavaLogging:28 - Warn pranesimas
+2018-11-14 15:14:20 INFO  JavaLogging:38 - Failas nebuvo sukurtas, nes nėra tokios direktorijos

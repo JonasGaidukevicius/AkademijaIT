@@ -24,6 +24,8 @@ public class JavaLogging {
     public static void main(String[] args) throws IOException {
         //logger.trace("Message from TRACE level");
         logger.info("Message from INFO level");
+        logger.error("Error klaida");
+        logger.warn("Warn pranesimas");
         createNewFile();
     }
 

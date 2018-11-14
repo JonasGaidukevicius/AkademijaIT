@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11267a0-3792-47a9-b11f-11f76528a75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/20181112(greeter_strategy).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/src/lt/vtvpmc/ems/jonas/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/src/lt/vtvpmc/ems/jonas/GreetingTextProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/src/lt/vtvpmc/ems/jonas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20181112(greeter_strategy)/src/lt/vtvpmc/ems/jonas/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/Trynimui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/pamoka_20181114(konsultacija).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,22 +34,22 @@
     <session id="958911653">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="4" />
+          <entry key="class" value="5" />
           <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
+          <entry key="CLASS" value="5" />
           <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
@@ -60,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="195">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,14 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/ProjectManagerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="360">
+              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1/exam-v1.jar!/lt/itakademija/exam/ProjectManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -137,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,11 +177,37 @@
               <item name="exam4_v1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="exam4_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="exam-v1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="exam4_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="exam-v1" type="70bed36:NamedLibraryElementNode" />
+              <item name="exam-v1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam4_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="exam-v1" type="70bed36:NamedLibraryElementNode" />
+              <item name="exam-v1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam4_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="exam-v1" type="70bed36:NamedLibraryElementNode" />
+              <item name="exam-v1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +215,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541958035702" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -272,7 +315,7 @@
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,23 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1/exam-v1.jar!/lt/itakademija/exam/ProjectManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/ProjectManagerImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -360,10 +386,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1/exam-v1.jar!/lt/itakademija/exam/ProjectManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/ProjectManagerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="360">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

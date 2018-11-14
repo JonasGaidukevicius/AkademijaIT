@@ -2,64 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad4e14b-edd0-4af3-9159-0d88ad594b29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/libraries/exam_v11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Egzaminas4(Project-Edvino)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/Pasibandymai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pasibandymai/src/lt/vtvpmc/ems/akademijait/this_pasibandymas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/libraries/documents_organizer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/exam3_Augusto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocOrganizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentConsumerImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/DocumentProducerImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam3_Augusto/src/lt/vtvpmc/ems/akademijait/document_organizer/MyBasetest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/documents_organizer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentOrganizerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentProducerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam4_v1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam4_v1/Test/ProjectManagerImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/MyBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exam4_v1/src/lt/vtvpmc/ems/akademijait/jonas/exam4v1/ProjectManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Egzaminai 2017/Exam4/exam-v1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam1_news-service_naujas/src/lt/vtvpmc/ems/akademijait/news_service_new/MyNewsServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_mano (is naujo)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano (is naujo)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam1_mano_pacio_news_service/src/lt/vtvpmc/ems/akademijait/news_service/MyNewsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/junit_junit_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/libraries/news_service_assignment_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/exam1_news-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/ArticleNoSwearWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam1_news-service/src/lt/vtvpmc/ems/akademijait/jonas/news_service/MyNewsServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/Trynimui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/pamoka_20181114(konsultacija).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam4_v1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam4_v1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/src/lt/gaidukevicius/junit/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/src/lt/gaidukevicius/junit/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181009 (oopbank)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181009 (oopbank)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/JavaEnums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108 (Enum, Serialization, Generic)/src/lt/vtvpmc/ems/akademijait/jonas/Planets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/BankImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/CurrencyConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,25 +35,29 @@
     <session id="934937171">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="22" />
-          <entry key="java" value="12" />
+          <entry key="class" value="25" />
+          <entry key="java" value="13" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="22" />
-          <entry key="JAVA" value="12" />
+          <entry key="CLASS" value="25" />
+          <entry key="JAVA" value="13" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -112,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="120">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentOrganizerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+            <state relative-caret-position="450">
+              <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,10 +101,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentTypeDetector.class">
+        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentConsumer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -157,19 +124,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/Document.class">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/BaseTest.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="97" column="49" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="49" />
+            <state relative-caret-position="105">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding>
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -206,10 +168,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="51" />
-    <option name="width" value="1400" />
-    <option name="height" value="904" />
+    <option name="y" value="48" />
+    <option name="width" value="1280" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -225,6 +186,11 @@
             <path>
               <item name="exam3_document_organizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="exam3_document_organizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam3_document_organizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam3_document_organizer" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exam3_document_organizer" type="b2602c69:ProjectViewProjectNode" />
@@ -263,13 +229,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541941063250" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam1_mano (is naujo)" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542203705082" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam4_v1" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -321,9 +287,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyBaseTest - 2018.11.11 at 14h 05m 32s.xml">
-      <configuration name="MyBaseTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyBaseTest - 2018.11.11 at 14h 32m 47s.xml">
       <configuration name="MyBaseTest" configurationId="JUnit" />
     </history-entry>
@@ -351,12 +314,15 @@
     <history-entry file="MyBaseTest - 2018.11.11 at 14h 57m 47s.xml">
       <configuration name="MyBaseTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyBaseTest - 2018.11.14 at 14h 36m 14s.xml">
+      <configuration name="MyBaseTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -370,8 +336,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27439025" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -410,10 +376,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/ArrayListDocument.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/FileRepositoryImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentTypeDetectorImpl.java" />
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentTypeDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/BaseTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentOrganizer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/Document.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -424,43 +420,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/ArrayListDocument.class">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/FileRepositoryImpl.java" />
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentConsumer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentTypeDetectorImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="441">
+          <caret line="512" column="20" selection-start-line="512" selection-start-column="20" selection-end-line="512" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/MyBaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="120">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentTypeDetector.class">
+    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/DocumentConsumer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -476,24 +456,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/Document.class">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentConsumerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Egzaminai 2017/Exam3/documents-organizer.jar!/lt/itakademija/BaseTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="97" column="49" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="49" />
+        <state relative-caret-position="105">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/document_organizer/DocumentOrganizerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+        <state relative-caret-position="450">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

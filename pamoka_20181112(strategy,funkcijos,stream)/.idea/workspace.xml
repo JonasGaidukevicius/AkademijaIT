@@ -2,27 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75c0776-84dd-46c3-b5db-4b728a6a5974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/pamoka_20181113(Adapter).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/LoudSpeaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/LoudSpeakerToMegaphoneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/Megaphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/MakeCalculationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/MakingCalculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/NewCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/OldCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/OldToNewAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/RunApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/UserOfMyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113/.idea/pamoka_20181113.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/Trynimui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/LoudSpeaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/LoudSpeakerToMegaphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/Megaphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/Veiksmas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/ViskasViename.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,21 +69,23 @@
     <session id="-1945878337">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -126,55 +122,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/EvenNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/RunCode.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Parrot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+            <state relative-caret-position="150">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/streamai/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/GoodBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="60">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/streamai/Box.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/BadBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Behavior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -229,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,12 +281,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542104259489" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181113" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542203705307" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -387,8 +384,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26464325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26996806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,27 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/BadBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/GoodBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Parrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/BlogasPapugosElgesys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -469,24 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Behavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/funcine_strategija/Parrot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -511,19 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/EvenNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/streamai/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -534,9 +484,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/RunCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/streamai/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="150">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
@@ -547,12 +507,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/RunCode.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/namu_darbai/EvenNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Behavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/GoodBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/BadBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/strategija/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>
