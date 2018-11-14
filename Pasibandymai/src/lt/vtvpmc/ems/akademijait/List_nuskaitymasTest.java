@@ -6,10 +6,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class List_nuskaitymasTest {
 
-    @Test
-            void shouldCalculateCorrectly(){
-                assertEquals(1, aaa());
+   // @Test
+           // void shouldCalculateCorrectly(){
+     //           assertEquals(1, aaa());
     }
 
 
-}

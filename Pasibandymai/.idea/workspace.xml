@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3909c5-5774-4d22-92a9-75555728e15f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/egzas_nr6isplestinis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_nr6isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_teorija_nr5Isplestinis/egzas_teorija_nr5Isplestinis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_teorija_nr5Isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_teorija_nr5Isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzas_teorija_nr5Isplestinis/src/lt/vtvpmc/ems/akademijait/jonas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/src/lt/vtvpmc/ems/akademijait/jonas/JavaDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181114(konsultacija)/src/lt/vtvpmc/ems/akademijait/jonas/KitaKlase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/Aaa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/Iii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/src/lt/vtvpmc/ems/akademijait/egzas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teorijos_egzaminas/teorijos_egzaminas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,51 +68,72 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1786015007">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="671" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="671" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/this_pasibandymas.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="80">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#444#453#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +144,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,16 +156,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/this_pasibandymas.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/A.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/B.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="48" />
-    <option name="width" value="1280" />
-    <option name="height" value="1002" />
+    <option name="x" value="-3" />
+    <option name="y" value="31" />
+    <option name="width" value="830" />
+    <option name="height" value="452" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -128,8 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,7 +209,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541940047990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542189874208" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -184,6 +235,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.Main" />
+      <module name="Pasibandymai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -198,19 +269,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
-    <editor active="true" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20028612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32917318" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.174727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -239,19 +310,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -261,12 +322,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/List_nuskaitymasTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/ManoObjektas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
           </folding>
         </state>
       </provider>

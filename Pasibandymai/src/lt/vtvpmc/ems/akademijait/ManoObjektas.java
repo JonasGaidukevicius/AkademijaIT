@@ -9,6 +9,6 @@ public class ManoObjektas {
     private List<Integer> antras;
 
     public ManoObjektas(int var1, int... var2){
-        this(var1, Arrays.asList()var2);
+        //this(var1, Arrays.asList()var2);
     }
 }
