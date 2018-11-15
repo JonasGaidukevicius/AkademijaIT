@@ -16,3 +16,9 @@
 2018-11-09 09:29:42 INFO  SocialNetworkImpl:41 - No argument provided
 2018-11-09 09:29:42 INFO  SocialNetworkImpl:27 - Such friend already is in friends list
 2018-11-09 09:29:42 INFO  SocialNetworkImpl:52 - There is no such friend: Robert Banner
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:18 - Provided argument is null or empty
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:63 - No argument provided
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:41 - No argument provided
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:41 - No argument provided
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:27 - Such friend already is in friends list
+2018-11-15 08:10:12 INFO  SocialNetworkImpl:52 - There is no such friend: Robert Banner

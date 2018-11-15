@@ -2,14 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab86368-92f9-4eeb-9cf2-69f4908a8627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/Trynimui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/libraries/municipality_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/sheep_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheepIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/pamoka_20181106_papildoma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/pamoka_20181108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbbbb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pamoka_20181106/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pamoka_20181106/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,6 +126,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="539584592">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -116,7 +152,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="345">
               <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -128,8 +164,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="17" column="89" lean-forward="true" selection-end-line="17" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -168,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,7 +230,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -272,10 +308,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2662407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,7 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="345">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -332,8 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="255">
+          <caret line="17" column="89" lean-forward="true" selection-end-line="17" selection-end-column="89" />
         </state>
       </provider>
     </entry>

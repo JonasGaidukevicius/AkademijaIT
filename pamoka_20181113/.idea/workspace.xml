@@ -2,27 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c8cd137-b8a8-4365-8eda-ce2b36792649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/pamoka_20181113(Adapter).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/LoudSpeaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/LoudSpeakerToMegaphoneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/Megaphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/adapteris/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/MakeCalculationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/MakingCalculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/NewCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/OldCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/OldToNewAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/RunApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181113(Adapter)/src/lt/vtvpmc/ems/akademijait/jono_adaperis/UserOfMyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pamoka_20181113.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/LoudSpeaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/LoudSpeakerToMegaphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/Megaphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/Veiksmas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/lt/vtvpmc/ems/akademijait/adapter/ViskasViename.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/libraries/municipality_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/sheep_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheepIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbbbb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,15 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-875325654">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -106,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,7 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,9 +175,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
