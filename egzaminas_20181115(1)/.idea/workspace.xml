@@ -2,42 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5825862-6ca8-4b13-8626-f3e2976db087" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/municipality_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminas_20181115(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/sheep_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheepIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/pamoka_20181106_papildoma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/pamoka_20181108.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bbbbbb.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/jonas/municipality/TestMunicipality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/test/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminas_20181115(1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/egzaminas_20181115(1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/log4j-app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181105 (exceptions truputi)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181105 (exceptions truputi)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,49 +31,48 @@
     <session id="701397209">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="3" />
+          <entry key="class" value="4" />
+          <entry key="java" value="4" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="3" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="4" />
+          <entry key="Log" value="1" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="156" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="2566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="156" />
+          <entry key="JAVA" value="2566" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/lt/vtvpmc/municipality/AbstractMunicipalityTest.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,31 +83,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="510">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/lt/vtvpmc/municipality/Person.class">
+        <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/jonas/municipality/TestMunicipality.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -138,6 +112,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -148,8 +123,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MyMunicipalityTest.java" />
-        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" />
         <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/jonas/municipality/TestMunicipality.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" />
       </list>
     </option>
   </component>
@@ -165,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +154,23 @@
               <item name="egzaminas_20181115(1)" type="b2602c69:ProjectViewProjectNode" />
               <item name="egzaminas_20181115(1)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egzaminas_20181115(1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="egzaminas_20181115(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="municipality" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egzaminas_20181115(1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="egzaminas_20181115(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egzaminas_20181115(1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="egzaminas_20181115(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="municipality" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="egzaminas_20181115(1)" type="b2602c69:ProjectViewProjectNode" />
@@ -205,14 +199,28 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542268500202" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278146679" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../egzaminas_20181115(2)" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lt.vtvpmc.ems.akademijait.jonas.municipality" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestMunicipality">
     <configuration name="MyMunicipalityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="egzaminas_20181115(1)" />
       <extension name="coverage">
@@ -241,8 +249,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMunicipality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="egzaminas_20181115(1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.jonas.municipality.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.jonas.municipality" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.jonas.municipality.TestMunicipality" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyMunicipalityTest" />
+      <item itemvalue="JUnit.TestMunicipality" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMunicipality" />
         <item itemvalue="JUnit.MyMunicipalityTest" />
       </list>
     </recent_temporary>
@@ -261,98 +288,131 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyMunicipalityTest - 2018.11.15 at 08h 46m 35s.xml">
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 11h 54m 23s.xml">
       <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 00m 07s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 01m 56s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 05m 14s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 06m 24s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 21m 02s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 34m 39s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 34m 56s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMunicipalityTest - 2018.11.15 at 12h 35m 43s.xml">
+      <configuration name="MyMunicipalityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMunicipality - 2018.11.15 at 12h 35m 49s.xml">
+      <configuration name="TestMunicipality" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41341653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyMunicipalityTest.java">
+    <entry file="file://$PROJECT_DIR$/src/MyMunicipalityTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/lt/vtvpmc/municipality/AbstractMunicipalityTest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="1444">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java">
+    <entry file="file://$PROJECT_DIR$/log4j-app.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/lt/vtvpmc/municipality/IllegalCitizenException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Egzamino_1_uzduotis/municipality-1.0.jar!/lt/vtvpmc/municipality/Person.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="124">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/jonas/municipality/TestMunicipality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -433,7 +493,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>municipality-1.0</last-edited>
+          <last-edited>org.slf4j:slf4j-log4j12:1.7.25</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

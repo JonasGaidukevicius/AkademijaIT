@@ -2,42 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83aef82c-6f95-4265-aedb-1e7863b89eaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/libraries/municipality_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/libraries/sheep_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/MySheepIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/pamoka_20181106_papildoma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181106_papildoma/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/pamoka_20181108.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasibandymai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bbbbbb.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/test/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/test/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (iteratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181022 (adapterexample(naujas))/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181105 (exceptions truputi)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181105 (exceptions truputi)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106_daug_dalyku/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181113/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,6 +68,7 @@
     <session id="580106618">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -113,7 +94,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SocialNetworkImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="409">
               <caret line="73" column="40" selection-start-line="71" selection-start-column="8" selection-end-line="75" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -216,7 +197,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542268500131" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542277229633" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -307,7 +288,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -369,7 +350,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SocialNetworkImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="409">
           <caret line="73" column="40" selection-start-line="71" selection-start-column="8" selection-end-line="75" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />

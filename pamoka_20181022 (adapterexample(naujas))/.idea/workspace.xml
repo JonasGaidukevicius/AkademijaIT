@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b24693b-361c-471a-8caf-8162f5a9abff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pamoka_20181108_egzamino_paaiskinimas/src/lt/vtvpmc/ems/akademijait/egzaminas/Trynimui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam3_document_organizer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Testas)/Testas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_201809xx (Uzduotys)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001 (kodai is paskaitu)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181001/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/libraries/org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/test/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/test/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/egzaminas_20181115(1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(1)/src/lt/vtvpmc/ems/akademijait/jonas/municipality/MyMunicipality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/egzaminas_20181115(2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../egzaminas_20181115(2)/src/lt/vtvpmc/ems/akademijait/jonas/sheep/SheepIteratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam2_mano/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181023 (decoratorexample)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/log4j-app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/out/production/pamoka_20181106/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181106 (logging)/src/lt/vtvpmc/ems/akadenmijait/jonas/logging/JavaLogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pamoka_20181112(strategy,funkcijos,stream)/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,6 +123,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="246430021">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -155,8 +165,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,7 +177,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/SurasauZinias.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1098">
+            <state relative-caret-position="1305">
               <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
             </state>
           </provider>
@@ -235,10 +245,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="51" />
-    <option name="width" value="1400" />
-    <option name="height" value="904" />
+    <option name="width" value="1920" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -395,10 +403,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540744314246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542276378894" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pamoka_20181001" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
@@ -547,10 +555,10 @@
     <option name="totallyTimeSpent" value="3613000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="947" extended-state="6" />
+    <frame x="-3" y="31" width="1446" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24707136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -619,6 +627,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/SurasauZinias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/fancy/NewProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -638,17 +653,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/sender/SurasauZinias.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
